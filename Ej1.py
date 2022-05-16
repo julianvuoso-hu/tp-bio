@@ -17,7 +17,7 @@ def parse_genbank(filename):
 
 def ej1(data, min_len=300):
     i = 1
-    for strand, nuc in [(1, data.seq), (-1, data.seq.reverse_complement())]:
+    for _, nuc in [(1, data.seq), (-1, data.seq.reverse_complement())]:
         for frame in range(3):
             length = math.floor(3 * ((len(data) - frame) // 3))
             for protein in nuc[frame:frame+length].translate(1).split("*"):

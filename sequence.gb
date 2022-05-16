@@ -1,4 +1,4 @@
-LOCUS       NM_005018               2097 bp    mRNA    linear   PRI 24-APR-2022
+LOCUS       NM_005018               2097 bp    mRNA    linear   PRI 15-MAY-2022
 DEFINITION  Homo sapiens programmed cell death 1 (PDCD1), mRNA.
 ACCESSION   NM_005018
 VERSION     NM_005018.3
@@ -9,17 +9,6 @@ SOURCE      Homo sapiens (human)
             Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
             Catarrhini; Hominidae; Homo.
 REFERENCE   1  (bases 1 to 2097)
-  AUTHORS   Pakkanen E, Kalfert D, Ahtiainen M, Ludvikova M, Kuopio T and
-            Kholova I.
-  TITLE     PD-L1 and PD-1 expression in thyroid follicular epithelial
-            dysplasia: Hashimoto thyroiditis related atypia and potential
-            papillary carcinoma precursor
-  JOURNAL   APMIS 130 (5), 276-283 (2022)
-   PUBMED   35238073
-  REMARK    GeneRIF: PD-L1 and PD-1 expression in thyroid follicular epithelial
-            dysplasia: Hashimoto thyroiditis related atypia and potential
-            papillary carcinoma precursor.
-REFERENCE   2  (bases 1 to 2097)
   AUTHORS   Chen X, Zhang H, Wang M, Liu H, Hu Y, Lin T, Chen H, Zhao M, Chen
             T, Li G, Yu J and Zhao L.
   TITLE     Relationship Between Programmed Death Ligand 1 Expression and Other
@@ -31,7 +20,7 @@ REFERENCE   2  (bases 1 to 2097)
             and Other Clinicopathological Features in a Large Cohort of Gastric
             Cancer Patients.
             Publication Status: Online-Only
-REFERENCE   3  (bases 1 to 2097)
+REFERENCE   2  (bases 1 to 2097)
   AUTHORS   Niu M, Liu Y, Yi M, Jiao D and Wu K.
   TITLE     Biological Characteristics and Clinical Significance of Soluble
             PD-1/PD-L1 and Exosomal PD-L1 in Cancer
@@ -41,7 +30,7 @@ REFERENCE   3  (bases 1 to 2097)
             Soluble PD-1/PD-L1 and Exosomal PD-L1 in Cancer.
             Review article
             Publication Status: Online-Only
-REFERENCE   4  (bases 1 to 2097)
+REFERENCE   3  (bases 1 to 2097)
   AUTHORS   Machcinska M, Kierasinska M, Michniowska M, Maruszewska-Cheruiyot
             M, Szewczak L, Rola R, Karlinska A, Stear M and Donskow-Lysoniewska
             K.
@@ -52,7 +41,7 @@ REFERENCE   4  (bases 1 to 2097)
   REMARK    GeneRIF: Reduced Expression of PD-1 in Circulating CD4+ and CD8+
             Tregs Is an Early Feature of RRMS.
             Publication Status: Online-Only
-REFERENCE   5  (bases 1 to 2097)
+REFERENCE   4  (bases 1 to 2097)
   AUTHORS   Weimer P, Wellbrock J, Sturmheit T, Oliveira-Ferrer L, Ding Y,
             Menzel S, Witt M, Hell L, Schmalfeldt B, Bokemeyer C, Fiedler W and
             Brauneck F.
@@ -63,6 +52,18 @@ REFERENCE   5  (bases 1 to 2097)
   REMARK    GeneRIF: Tissue-Specific Expression of TIGIT, PD-1, TIM-3, and CD39
             by gammadelta T Cells in Ovarian Cancer.
             Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 2097)
+  AUTHORS   Banta KL, Xu X, Chitre AS, Au-Yeung A, Takahashi C, O'Gorman WE, Wu
+            TD, Mittman S, Cubas R, Comps-Agrar L, Fulzele A, Bennett EJ,
+            Grogan JL, Hui E, Chiang EY and Mellman I.
+  TITLE     Mechanistic convergence of the TIGIT and PD-1 inhibitory pathways
+            necessitates co-blockade to optimize anti-tumor CD8(+) T cell
+            responses
+  JOURNAL   Immunity 55 (3), 512-526 (2022)
+   PUBMED   35263569
+  REMARK    GeneRIF: Mechanistic convergence of the TIGIT and PD-1 inhibitory
+            pathways necessitates co-blockade to optimize anti-tumor CD8(+) T
+            cell responses.
 REFERENCE   6  (bases 1 to 2097)
   AUTHORS   Moser KL, Neas BR, Salmon JE, Yu H, Gray-McGuire C, Asundi N,
             Bruner GR, Fox J, Kelly J, Henshall S, Bacino D, Dietz M, Hogue R,

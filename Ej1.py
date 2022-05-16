@@ -1,22 +1,42 @@
-from Bio import SeqIO
+import math
+import sys
+
 from Bio.SeqRecord import SeqRecord
+from Bio import SeqIO
 
 
-input_seq = "sequence.gb"
-record = SeqIO.read(input_seq, "genbank")
-table = 1
-min_pro_len = 100
+def save_sequence(seq, i):
+    seq.id = 'e1'
+    seq.description = 'ORF' + str(i)
+    SeqIO.write(seq, "out1/%s-%d.fasta" % ('out', i), 'fasta')
 
-i = 1
-for strand, nuc in [(+1, record.seq), (-1, record.seq.reverse_complement())]:
-     for frame in range(3):
-         length = 3 * ((len(record)-frame) // 3) #Multiple of three
-         for pro in nuc[frame:frame+length].translate(table).split("*"):
-             if len(pro) >= min_pro_len:
-                 print("%s...%s - length %i, strand %i, frame %i" \
-                       % (pro[:30], pro[-3:], len(pro), strand, frame))
-                 orf_seq = SeqRecord(pro)
-                 orf_seq.id = "lcl"
-                 orf_seq.description = "ORF%d" % i
-                 SeqIO.write(orf_seq, "out1/%s-%d.fasta" % (input_seq[:-3], i), 'fasta')
-                 i += 1
+
+def parse_genbank(filename):
+    return SeqIO.read(filename, 'genbank')
+
+
+def ej1(data, min_len=300):
+    i = 1
+    for strand, nuc in [(1, data.seq), (-1, data.seq.reverse_complement())]:
+        for frame in range(3):
+            length = math.floor(3 * ((len(data) - frame) // 3))
+            for protein in nuc[frame:frame+length].translate(1).split("*"):
+                if len(protein) >= min_len:
+                    save_sequence(SeqRecord(protein), i)
+                    i += 1
+    i -= 1
+    print('Found ' + str(i) + ' proteins of length >= ' + str(min_len))
+
+
+def main():
+    if len(sys.argv) > 1:
+        filename = sys.argv[0]
+    else:
+        filename = 'sequence.gb'
+
+    data = parse_genbank(filename)
+    ej1(data)
+
+
+if __name__ == '__main__':
+    main()

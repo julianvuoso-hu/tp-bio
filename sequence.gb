@@ -1,0 +1,354 @@
+LOCUS       NM_005018               2097 bp    mRNA    linear   PRI 24-APR-2022
+DEFINITION  Homo sapiens programmed cell death 1 (PDCD1), mRNA.
+ACCESSION   NM_005018
+VERSION     NM_005018.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2097)
+  AUTHORS   Pakkanen E, Kalfert D, Ahtiainen M, Ludvikova M, Kuopio T and
+            Kholova I.
+  TITLE     PD-L1 and PD-1 expression in thyroid follicular epithelial
+            dysplasia: Hashimoto thyroiditis related atypia and potential
+            papillary carcinoma precursor
+  JOURNAL   APMIS 130 (5), 276-283 (2022)
+   PUBMED   35238073
+  REMARK    GeneRIF: PD-L1 and PD-1 expression in thyroid follicular epithelial
+            dysplasia: Hashimoto thyroiditis related atypia and potential
+            papillary carcinoma precursor.
+REFERENCE   2  (bases 1 to 2097)
+  AUTHORS   Chen X, Zhang H, Wang M, Liu H, Hu Y, Lin T, Chen H, Zhao M, Chen
+            T, Li G, Yu J and Zhao L.
+  TITLE     Relationship Between Programmed Death Ligand 1 Expression and Other
+            Clinicopathological Features in a Large Cohort of Gastric Cancer
+            Patients
+  JOURNAL   Front Immunol 13, 783695 (2022)
+   PUBMED   35401534
+  REMARK    GeneRIF: Relationship Between Programmed Death Ligand 1 Expression
+            and Other Clinicopathological Features in a Large Cohort of Gastric
+            Cancer Patients.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2097)
+  AUTHORS   Niu M, Liu Y, Yi M, Jiao D and Wu K.
+  TITLE     Biological Characteristics and Clinical Significance of Soluble
+            PD-1/PD-L1 and Exosomal PD-L1 in Cancer
+  JOURNAL   Front Immunol 13, 827921 (2022)
+   PUBMED   35386715
+  REMARK    GeneRIF: Biological Characteristics and Clinical Significance of
+            Soluble PD-1/PD-L1 and Exosomal PD-L1 in Cancer.
+            Review article
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 2097)
+  AUTHORS   Machcinska M, Kierasinska M, Michniowska M, Maruszewska-Cheruiyot
+            M, Szewczak L, Rola R, Karlinska A, Stear M and Donskow-Lysoniewska
+            K.
+  TITLE     Reduced Expression of PD-1 in Circulating CD4+ and CD8+ Tregs Is an
+            Early Feature of RRMS
+  JOURNAL   Int J Mol Sci 23 (6), 3185 (2022)
+   PUBMED   35328606
+  REMARK    GeneRIF: Reduced Expression of PD-1 in Circulating CD4+ and CD8+
+            Tregs Is an Early Feature of RRMS.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 2097)
+  AUTHORS   Weimer P, Wellbrock J, Sturmheit T, Oliveira-Ferrer L, Ding Y,
+            Menzel S, Witt M, Hell L, Schmalfeldt B, Bokemeyer C, Fiedler W and
+            Brauneck F.
+  TITLE     Tissue-Specific Expression of TIGIT, PD-1, TIM-3, and CD39 by
+            gammadelta T Cells in Ovarian Cancer
+  JOURNAL   Cells 11 (6), 964 (2022)
+   PUBMED   35326415
+  REMARK    GeneRIF: Tissue-Specific Expression of TIGIT, PD-1, TIM-3, and CD39
+            by gammadelta T Cells in Ovarian Cancer.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 2097)
+  AUTHORS   Moser KL, Neas BR, Salmon JE, Yu H, Gray-McGuire C, Asundi N,
+            Bruner GR, Fox J, Kelly J, Henshall S, Bacino D, Dietz M, Hogue R,
+            Koelsch G, Nightingale L, Shaver T, Abdou NI, Albert DA, Carson C,
+            Petri M, Treadwell EL, James JA and Harley JB.
+  TITLE     Genome scan of human systemic lupus erythematosus: evidence for
+            linkage on chromosome 1q in African-American pedigrees
+  JOURNAL   Proc Natl Acad Sci U S A 95 (25), 14869-14874 (1998)
+   PUBMED   9843982
+REFERENCE   7  (bases 1 to 2097)
+  AUTHORS   Finger LR, Pu J, Wasserman R, Vibhakar R, Louie E, Hardy RR,
+            Burrows PD and Billips LG.
+  TITLE     The human PD-1 gene: complete cDNA, genomic organization, and
+            developmentally regulated expression in B cell progenitors
+  JOURNAL   Gene 197 (1-2), 177-187 (1997)
+   PUBMED   9332365
+  REMARK    Erratum:[Gene 1997 Dec 12;203(2):253]
+REFERENCE   8  (bases 1 to 2097)
+  AUTHORS   Vibhakar R, Juan G, Traganos F, Darzynkiewicz Z and Finger LR.
+  TITLE     Activation-induced expression of human programmed death-1 gene in
+            T-lymphocytes
+  JOURNAL   Exp Cell Res 232 (1), 25-28 (1997)
+   PUBMED   9141617
+REFERENCE   9  (bases 1 to 2097)
+  AUTHORS   Shinohara T, Taniwaki M, Ishida Y, Kawaichi M and Honjo T.
+  TITLE     Structure and chromosomal localization of the human PD-1 gene
+            (PDCD1)
+  JOURNAL   Genomics 23 (3), 704-706 (1994)
+   PUBMED   7851902
+REFERENCE   10 (bases 1 to 2097)
+  AUTHORS   Ishida Y, Agata Y, Shibahara K and Honjo T.
+  TITLE     Induced expression of PD-1, a novel member of the immunoglobulin
+            gene superfamily, upon programmed cell death
+  JOURNAL   EMBO J 11 (11), 3887-3895 (1992)
+   PUBMED   1396582
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from U64863.1, AY238517.1,
+            CR988122.1 and AI928135.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 22, 2018 this sequence version replaced NM_005018.2.
+            
+            Summary: Programmed cell death protein 1 (PDCD1) is an
+            immune-inhibitory receptor expressed in activated T cells; it is
+            involved in the regulation of T-cell functions, including those of
+            effector CD8+ T cells. In addition, this protein can also promote
+            the differentiation of CD4+ T cells into T regulatory cells. PDCD1
+            is expressed in many types of tumors including melanomas, and has
+            demonstrated to play a role in anti-tumor immunity. Moreover, this
+            protein has been shown to be involved in safeguarding against
+            autoimmunity, however, it can also contribute to the inhibition of
+            effective anti-tumor and anti-microbial immunity. [provided by
+            RefSeq, Aug 2020].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: U64863.1, SRR1163657.360434.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2158800 [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000334409.10/ ENSP00000335062.5
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-56                U64863.1           13-68
+            57-923              AY238517.1         1-867
+            924-1537            U64863.1           936-1549
+            1538-1632           U64863.1           1551-1645
+            1633-1999           CR988122.1         113-479
+            2000-2095           U64863.1           2011-2106
+            2096-2097           AI928135.1         7-8                 c
+FEATURES             Location/Qualifiers
+     source          1..2097
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q37.3"
+     gene            1..2097
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="programmed cell death 1"
+                     /db_xref="GeneID:5133"
+                     /db_xref="HGNC:HGNC:8760"
+                     /db_xref="MIM:600244"
+     exon            1..132
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             57..923
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="programmed cell death protein 1; protein PD-1;
+                     systemic lupus erythematosus susceptibility 2; programmed
+                     cell death 1 protein"
+                     /codon_start=1
+                     /product="programmed cell death protein 1 precursor"
+                     /protein_id="NP_005009.2"
+                     /db_xref="CCDS:CCDS33428.1"
+                     /db_xref="GeneID:5133"
+                     /db_xref="HGNC:HGNC:8760"
+                     /db_xref="MIM:600244"
+                     /translation="MQIPQAPWPVVWAVLQLGWRPGWFLDSPDRPWNPPTFSPALLVV
+                     TEGDNATFTCSFSNTSESFVLNWYRMSPSNQTDKLAAFPEDRSQPGQDCRFRVTQLPN
+                     GRDFHMSVVRARRNDSGTYLCGAISLAPKAQIKESLRAELRVTERRAEVPTAHPSPSP
+                     RPAGQFQTLVVGVVGGLLGSLVLLVWVLAVICSRAARGTIGARRTGQPLKEDPSAVPV
+                     FSVDYGELDFQWREKTPEPPVPCVPEQTEYATIVFPSGMGTSSPARRGSADGPRSAQP
+                     LRPEDGHCSWPL"
+     sig_peptide     57..116
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+     mat_peptide     117..920
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /product="programmed cell death protein 1"
+     misc_feature    129..158
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q15116.3);
+                     Region: Nivolumab binding.
+                     /evidence=ECO:0000269|PubMed:28165004,
+                     ECO:0007744|PDB:5WT9"
+     misc_feature    201..203
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000305|PubMed:28165004; propagated from
+                     UniProtKB/Swiss-Prot (Q15116.3); glycosylation site"
+     misc_feature    228..230
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:28165004,
+                     ECO:0007744|PDB:5WT9; propagated from UniProtKB/Swiss-Prot
+                     (Q15116.3); glycosylation site"
+     misc_feature    264..287
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q15116.3);
+                     Region: Interaction with CD274/PDCD1L1.
+                     /evidence=ECO:0000269|PubMed:26602187"
+     misc_feature    276..353
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q15116.3);
+                     Region: Pembrolizumab binding.
+                     /evidence=ECO:0000269|PubMed:27325296,
+                     ECO:0000269|PubMed:27734966, ECO:0007744|PDB:5B8C,
+                     ECO:0007744|PDB:5JXE"
+     misc_feature    276..278
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000305|PubMed:28165004; propagated from
+                     UniProtKB/Swiss-Prot (Q15116.3); glycosylation site"
+     misc_feature    402..404
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000305|PubMed:28165004; propagated from
+                     UniProtKB/Swiss-Prot (Q15116.3); glycosylation site"
+     misc_feature    567..629
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q15116.3);
+                     transmembrane region"
+     misc_feature    717..734
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q15116.3);
+                     Region: ITIM motif.
+                     /evidence=ECO:0000250|UniProtKB:Q02242"
+     misc_feature    723..725
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0000250|UniProtKB:Q02242; propagated from
+                     UniProtKB/Swiss-Prot (Q15116.3); phosphorylation site"
+     misc_feature    795..809
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q15116.3);
+                     Region: ITSM motif.
+                     /evidence=ECO:0000250|UniProtKB:Q02242"
+     misc_feature    798..800
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0000250|UniProtKB:Q02242; propagated from
+                     UniProtKB/Swiss-Prot (Q15116.3); phosphorylation site"
+     misc_feature    816..920
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q15116.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            133..492
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            493..648
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            649..683
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            684..2097
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2076..2081
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="hexamer: ATTAAA"
+     polyA_site      2097
+                     /gene="PDCD1"
+                     /gene_synonym="CD279; hPD-1; hPD-l; hSLE1; PD-1; PD1;
+                     SLEB2"
+                     /note="major polyA site"
+ORIGIN      
+        1 gctcacctcc gcctgagcag tggagaaggc ggcactctgg tggggctgct ccaggcatgc
+       61 agatcccaca ggcgccctgg ccagtcgtct gggcggtgct acaactgggc tggcggccag
+      121 gatggttctt agactcccca gacaggccct ggaacccccc caccttctcc ccagccctgc
+      181 tcgtggtgac cgaaggggac aacgccacct tcacctgcag cttctccaac acatcggaga
+      241 gcttcgtgct aaactggtac cgcatgagcc ccagcaacca gacggacaag ctggccgcct
+      301 tccccgagga ccgcagccag cccggccagg actgccgctt ccgtgtcaca caactgccca
+      361 acgggcgtga cttccacatg agcgtggtca gggcccggcg caatgacagc ggcacctacc
+      421 tctgtggggc catctccctg gcccccaagg cgcagatcaa agagagcctg cgggcagagc
+      481 tcagggtgac agagagaagg gcagaagtgc ccacagccca ccccagcccc tcacccaggc
+      541 cagccggcca gttccaaacc ctggtggttg gtgtcgtggg cggcctgctg ggcagcctgg
+      601 tgctgctagt ctgggtcctg gccgtcatct gctcccgggc cgcacgaggg acaataggag
+      661 ccaggcgcac cggccagccc ctgaaggagg acccctcagc cgtgcctgtg ttctctgtgg
+      721 actatgggga gctggatttc cagtggcgag agaagacccc ggagcccccc gtgccctgtg
+      781 tccctgagca gacggagtat gccaccattg tctttcctag cggaatgggc acctcatccc
+      841 ccgcccgcag gggctcagct gacggccctc ggagtgccca gccactgagg cctgaggatg
+      901 gacactgctc ttggcccctc tgaccggctt ccttggccac cagtgttctg cagaccctcc
+      961 accatgagcc cgggtcagcg catttcctca ggagaagcag gcagggtgca ggccattgca
+     1021 ggccgtccag gggctgagct gcctgggggc gaccggggct ccagcctgca cctgcaccag
+     1081 gcacagcccc accacaggac tcatgtctca atgcccacag tgagcccagg cagcaggtgt
+     1141 caccgtcccc tacagggagg gccagatgca gtcactgctt caggtcctgc cagcacagag
+     1201 ctgcctgcgt ccagctccct gaatctctgc tgctgctgct gctgctgctg ctgctgcctg
+     1261 cggcccgggg ctgaaggcgc cgtggccctg cctgacgccc cggagcctcc tgcctgaact
+     1321 tgggggctgg ttggagatgg ccttggagca gccaaggtgc ccctggcagt ggcatcccga
+     1381 aacgccctgg acgcagggcc caagactggg cacaggagtg ggaggtacat ggggctgggg
+     1441 actccccagg agttatctgc tccctgcagg cctagagaag tttcagggaa ggtcagaaga
+     1501 gctcctggct gtggtgggca gggcaggaaa cccctccacc tttacacatg cccaggcagc
+     1561 acctcaggcc ctttgtgggg cagggaagct gaggcagtaa gcgggcaggc agagctggag
+     1621 gcctttcagg cccagccagc actctggcct cctgccgccg cattccaccc cagcccctca
+     1681 caccactcgg gagagggaca tcctacggtc ccaaggtcag gagggcaggg ctggggttga
+     1741 ctcaggcccc tcccagctgt ggccacctgg gtgttgggag ggcagaagtg caggcaccta
+     1801 gggcccccca tgtgcccacc ctgggagctc tccttggaac ccattcctga aattatttaa
+     1861 aggggttggc cgggctccca ccagggcctg ggtgggaagg tacaggcgtt cccccggggc
+     1921 ctagtacccc cgccgtggcc tatccactcc tcacatccac acactgcacc cccactcctg
+     1981 gggcagggcc accagcatcc aggcggccag caggcacctg agtggctggg acaagggatc
+     2041 ccccttccct gtggttctat tatattataa ttataattaa atatgagagc atgctaa
+//
+

@@ -1,0 +1,139 @@
+@font-face {
+  font-family: 'andale mono';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/andalemono.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'arial';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/arial.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'arial black';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/arialblack.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'book antiqua';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/bookantiqua.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'comic sans ms';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/comicsansms.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'courier new';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/couriernew.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'georgia';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/georgia.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'helvetica';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/helvetica.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'impact';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/impact.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'tahoma';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/tahoma.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'terminal';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/terminal.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'times new roman';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/timesnewroman.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'trebuchet ms';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/trebuchetms.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'verdana';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/verdana.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ogilvy sans web';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/OgilvySansWeb-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'ogilvy sans web';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/OgilvySansWeb-RegularItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'ogilvy sans web';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/OgilvySansWeb-Bold.woff2') format('woff2');
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'ogilvy sans web';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/OgilvySansWeb-BoldItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'ogilvy sans web';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/OgilvySansWeb-Light.woff2') format('woff2');
+  font-style: normal;
+  font-weight: lighter;
+}
+
+@font-face {
+  font-family: 'ogilvy serif web';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/OgilvySerifWeb-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'ogilvy serif web';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/OgilvySerifWeb-RegularItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'ogilvy serif web';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/OgilvySerifWeb-Bold.woff2') format('woff2');
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'ogilvy serif web';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/OgilvySerifWeb-BoldItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'ogilvy serif web';
+  src: url('https://humand-public-assets.s3.sa-east-1.amazonaws.com/fonts/OgilvySerifWeb-Light.woff2') format('woff2');
+  font-style: normal;
+  font-weight: lighter;
+}
